@@ -1,0 +1,2 @@
+2019/03/10 00:16:22 [error] 6#6: *1 open() "/var/www/hello.dev/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: hello.dev, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2019/03/10 00:20:36 [error] 6#6: *3 open() "/var/www/hello.dev/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: hello.dev, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
